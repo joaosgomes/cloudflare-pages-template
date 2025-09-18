@@ -70,3 +70,5 @@ This is a general introduction to Cloudflare Pages.
 
 Educational purposes only. This repo does not reflect the opinions of, and is not affiliated with Cloudflare. 
 Screenshots are taken from the Cloudflare dashboard.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/557608b6-d9ea-48bd-ba18-94be56605db0/deploy-status)](https://app.netlify.com/projects/funny-treacle-d63013/deploys)
